@@ -22,16 +22,31 @@
 // pessoa.Apresentar();
 
 // Convert não dá erro com valores nulos, já o x.Parse dá erro
-int a = Convert.ToInt32("10");
-// int a = int.Parse("10");
-int b = 20;
+// int a = Convert.ToInt32("10");
+// // int a = int.Parse("10");
+// int b = 20;
 
-int inteiro = 5;
-string c = inteiro.ToString();
+// int inteiro = 5;
+// string c = inteiro.ToString();
 
-Console.WriteLine(a + b);
-Console.WriteLine(c);
+// Console.WriteLine(a + b);
+// Console.WriteLine(c);
 
-string bc = "15-";
-int.TryParse(bc, out int d);
-Console.WriteLine(d);
+// string bc = "15-";
+// int.TryParse(bc, out int d);
+// Console.WriteLine(d);
+
+
+//switch case
+
+// Console.WriteLine("Digite uma letra");
+// string letter = Console.ReadLine();
+
+using fundamentos.Models;
+
+Calculadora calc = new();
+calc.Somar(10, 20);
+calc.Subtrair(10, 20);
+calc.Multiplicar(10, 20);
+calc.Dividir(40, 2);
+calc.Potencia(2, 3);
