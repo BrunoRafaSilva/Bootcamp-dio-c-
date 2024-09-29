@@ -50,3 +50,37 @@ calc.Subtrair(10, 20);
 calc.Multiplicar(10, 20);
 calc.Dividir(40, 2);
 calc.Potencia(2, 3);
+
+string opcao;
+
+while (true)
+{
+    Console.Clear();
+    Console.WriteLine("Digite a sua opção: ");
+    Console.WriteLine("1 - cadastrar cliente");
+    Console.WriteLine("2 - buscar clientes");
+    Console.WriteLine("3 - apagar cliente");
+    Console.WriteLine("4 - sair");
+
+    opcao = Console.ReadLine();
+
+    switch (opcao)
+    {
+        case "1":
+            Console.WriteLine("Cadastrando cliente...\n");
+            break;
+        case "2":
+            Console.WriteLine("Buscando clientes...\n");
+            break;
+        case "3":
+            Console.WriteLine("Apagando cliente...\n");
+            break;
+        case "4":
+            Console.WriteLine("Saindo...\n");
+            Environment.Exit(0);
+            break;
+        default:
+            Console.WriteLine("Opção inválida\n");
+            break;
+    }
+}
