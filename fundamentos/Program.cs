@@ -1,4 +1,5 @@
-﻿// using fundamentos.Models;
+﻿using System;
+// using fundamentos.Models;
 
 // const string apresentacao = "Olá, seja bem vindo!";
 
@@ -42,7 +43,7 @@
 // Console.WriteLine("Digite uma letra");
 // string letter = Console.ReadLine();
 
-using fundamentos.Models;
+using ExemploFundamentos.Common.Models;
 
 Calculadora calc = new();
 calc.Somar(10, 20);
@@ -55,7 +56,7 @@ string opcao;
 
 while (true)
 {
-    Console.Clear();
+
     Console.WriteLine("Digite a sua opção: ");
     Console.WriteLine("1 - cadastrar cliente");
     Console.WriteLine("2 - buscar clientes");
