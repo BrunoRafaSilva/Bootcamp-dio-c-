@@ -1,4 +1,5 @@
 ﻿using System;
+using ExemploFundamentos.Common.Models;
 // using fundamentos.Models;
 
 // const string apresentacao = "Olá, seja bem vindo!";
@@ -18,9 +19,9 @@
 // Console.WriteLine("Data atual: " + dataAtual.ToString("dd/MM/yyyy"));
 
 
-// Pessoa pessoa = new() { Name = "João", Age = 30 };
+Pessoa pessoa = new() { Name = "João", Age = 30 };
 
-// pessoa.Apresentar();
+pessoa.Apresentar();
 
 // Convert não dá erro com valores nulos, já o x.Parse dá erro
 // int a = Convert.ToInt32("10");
@@ -43,16 +44,17 @@
 // Console.WriteLine("Digite uma letra");
 // string letter = Console.ReadLine();
 
-using ExemploFundamentos.Common.Models;
+
 
 Calculadora calc = new();
-calc.Somar(10, 20);
+calc.Somar(10, 20); 
 calc.Subtrair(10, 20);
 calc.Multiplicar(10, 20);
 calc.Dividir(40, 2);
 calc.Potencia(2, 3);
 
 string opcao;
+///
 
 while (true)
 {
@@ -84,4 +86,5 @@ while (true)
             Console.WriteLine("Opção inválida\n");
             break;
     }
+
 }
