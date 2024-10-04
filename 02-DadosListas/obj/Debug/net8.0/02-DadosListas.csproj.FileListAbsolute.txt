@@ -1,0 +1,15 @@
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.AssemblyInfoInputs.cache
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.AssemblyInfo.cs
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.csproj.CoreCompileInputs.cache
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.sourcelink.json
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\bin\Debug\net8.0\02-DadosListas.exe
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\bin\Debug\net8.0\02-DadosListas.deps.json
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\bin\Debug\net8.0\02-DadosListas.runtimeconfig.json
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\bin\Debug\net8.0\02-DadosListas.dll
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\bin\Debug\net8.0\02-DadosListas.pdb
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.dll
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\refint\02-DadosListas.dll
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.pdb
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.genruntimeconfig.cache
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\ref\02-DadosListas.dll
