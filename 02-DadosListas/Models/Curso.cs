@@ -28,9 +28,11 @@ namespace _02_DadosListas.Models
 
         public void ListarAlunos()
         {
-            foreach (var aluno in Alunos)
+            Console.WriteLine($"Alunos do curso de: {Nome}");
+            for (int count = 0; count < Alunos.Count; count++)
             {
-                Console.WriteLine($"Nome: {aluno.NomeCompleto}");
+                int exibicao = count + 1;
+                Console.WriteLine($"N° {exibicao} - Nome: {Alunos[count].NomeCompleto}");
             }
         }
     }
