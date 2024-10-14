@@ -13,7 +13,14 @@ namespace _02_DadosListas.Models
             Sobrenome = sobrenome;
             Idade = idade;
         }
-        
+
+        public void Deconstruct(out string nome, out string sobrenome, out int idade)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+            idade = Idade;
+        }
+
         private string _nome = string.Empty;
         private string _sobrenome = string.Empty;
         private int _idade = 0;

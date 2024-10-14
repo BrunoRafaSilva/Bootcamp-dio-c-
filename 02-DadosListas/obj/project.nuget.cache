@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LZ+cDLrrwdE=",
+  "dgSpecHash": "zRNt/uVZ6CI=",
   "success": true,
   "projectFilePath": "c:\\Users\\conta\\OneDrive\\Documentos\\Bootcamp dio c#\\02-DadosListas\\02-DadosListas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\conta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

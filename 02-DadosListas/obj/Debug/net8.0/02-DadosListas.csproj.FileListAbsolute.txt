@@ -13,3 +13,6 @@ c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8
 c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.pdb
 c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.genruntimeconfig.cache
 c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\ref\02-DadosListas.dll
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-DadosListas.csproj.AssemblyReference.cache
+c:\Users\conta\OneDrive\Documentos\Bootcamp dio c#\02-DadosListas\obj\Debug\net8.0\02-Dados.4C17155B.Up2Date
